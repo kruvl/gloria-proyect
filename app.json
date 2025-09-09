@@ -4,18 +4,10 @@
     "slug": "cotizaciones-gloria",
     "version": "1.0.0",
     "orientation": "portrait",
-    "platforms": [
-      "android",
-      "ios"
-    ],
-    "sdkVersion": "51.0.0",
-    "android": {
-      "package": "com.gloria.cotizaciones"
-    },
+    "platforms": ["android","ios"],
+    "android": { "package": "com.gloria.cotizaciones" },
     "extra": {
-      "eas": {
-        "projectId": "416ed6ba-f4eb-4061-852d-611ab85d1b21"
-      }
+      "eas": { "projectId": "416ed6ba-f4eb-4061-852d-611ab85d1b21" }
     }
   }
 }
